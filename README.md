@@ -18,7 +18,7 @@ This internal analytics portal leverages **machine learning** to:
 ![Freight Prediction Screenshot](Screenshots/Freight_cost.png)
 
 ### Invoice Approval Workflow
-![Invoice Flag Screenshot](Screenshots/Invoice_flag.png)
+![Invoice Flag Screenshot](Screenshots/Invoice_flagging.png)
 
 ## ✨ Features
 
@@ -35,19 +35,8 @@ This internal analytics portal leverages **machine learning** to:
 - **Streamlit UI**  
   - Sidebar for module selection  
   - Form‑based inputs with validation  
-  - Real‑time predictions and results display  
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend/UI:** [Streamlit](https://streamlit.io/)  
-- **Data Handling:** Pandas, NumPy  
-- **Visualization:** Plotly Express  
-- **ML Models:** Scikit‑Learn (saved with Joblib)  
-- **Deployment:** Streamlit Cloud / local environment  
-
----
+  - Real‑time predictions and results display
+  - 
 ## 📂 Project Structure
 
 ```
