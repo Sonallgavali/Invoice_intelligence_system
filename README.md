@@ -58,7 +58,7 @@ invoice_intelligence_system/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/invoice_intelligence_system.git
+git clone https://github.com/Sonallgavali/Invoice_intelligence_system.git
 cd invoice_intelligence_system
 ```
 
