@@ -23,7 +23,9 @@ st.markdown("""
 ### AI-Driven Freight Cost Prediction & Invoice Risk Flagging
 
 This internal analytics portal leverages machine learning to 
-- **Forecast freight costs accurately**
+-🚚 Forecast freight costs accurately  
+- 🧾 Flag risky invoices requiring manual approval  
+- ⏱️ Accelerate finance operations with automated decision support 
 """)
 st.divider()
 
