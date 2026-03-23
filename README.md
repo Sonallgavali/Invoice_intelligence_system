@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 📦 Vendor Invoice Intelligence Portal
 
 ### AI‑Driven Freight Cost Prediction & Invoice Risk Flagging
@@ -56,7 +52,6 @@ This internal analytics portal leverages **machine learning** to:
 - **Deployment:** Streamlit Cloud / local environment  
 
 ---
-
 ## 📂 Project Structure
 
 ```
@@ -78,7 +73,7 @@ invoice_intelligence_system/
 
 ### 1. Clone the repository
 ```bash
-git [https://github.com/Sonallgavali/Invoice_intelligence_system]
+git clone https://github.com/yourusername/invoice_intelligence_system.git
 cd invoice_intelligence_system
 ```
 
@@ -118,3 +113,12 @@ streamlit run app.py
 - 🧾 Reduced invoice fraud & anomalies  
 - ⏱️ Faster finance operations with automated approvals  
 
+---
+
+## 🔮 Future Enhancements
+
+- Add **visual diagnostic charts** (e.g., predicted vs. actual freight costs)  
+- Integrate **historical invoice datasets** for benchmarking  
+- Deploy models with **ONNX/MLflow** for portability  
+- Role‑based access for finance teams  
+```
