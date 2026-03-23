@@ -12,17 +12,13 @@ This internal analytics portal leverages **machine learning** to:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/homepage.png)
 
 ### Freight Cost Prediction
-![Freight Prediction Screenshot](screenshots/freight_prediction.png)
+![Freight Prediction Screenshot](Screenshots/freight_cost.png)
 
 ### Invoice Approval Workflow
-![Invoice Flag Screenshot](screenshots/invoice_flag.png)
-
-*(Add your own screenshots in a `screenshots/` folder and update the paths above.)*
-
----
+![Invoice Flag Screenshot](Screenshots/invoice_flag.png)
 
 ## ✨ Features
 
